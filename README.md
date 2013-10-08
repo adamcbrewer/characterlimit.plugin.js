@@ -15,3 +15,8 @@ The HTML:
 ``` js
 $('.js-characterlimit').characterlimit(/* optional limit */);
 ```
+
+### Compatible Library Versions
+
++ jQuery
++ Google Closure (single DOMnode at this point)
